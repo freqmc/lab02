@@ -1,0 +1,14 @@
+﻿  lab02.c
+C:\Users\student\source\repos\lab02\lab02\lab02.c(16,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\Users\student\source\repos\lab02\lab02\lab02.c(16,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "2" имеет тип "double"
+C:\Users\student\source\repos\lab02\lab02\lab02.c(16,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "3" имеет тип "double"
+C:\Users\student\source\repos\lab02\lab02\lab02.c(28,6): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\student\source\repos\lab02\lab02\lab02.c(29,6): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\student\source\repos\lab02\lab02\lab02.c(43,9): warning C4477: "printf": в строке форматирования "%f" требуется аргумент типа "double", но вариативный аргумент "3" имеет тип "int"
+C:\Users\student\source\repos\lab02\lab02\lab02.c(43,84): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\student\source\repos\lab02\lab02\lab02.c(43,84): message : заполнители и их параметры ожидают переменное число аргументов в количестве 3, но было предоставлено 4
+C:\Users\student\source\repos\lab02\lab02\lab02.c(39,12): warning C4101: a: неиспользованная локальная переменная
+C:\Users\student\source\repos\lab02\lab02\lab02.c(39,15): warning C4101: b: неиспользованная локальная переменная
+C:\Users\student\source\repos\lab02\lab02\lab02.c(36): warning C4716: z2: должна возвращать значение
+C:\Users\student\source\repos\lab02\lab02\lab02.c(44): warning C4716: z3: должна возвращать значение
+  lab02.vcxproj -> C:\Users\student\source\repos\lab02\x64\Debug\lab02.exe
